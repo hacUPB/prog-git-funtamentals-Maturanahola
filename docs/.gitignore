@@ -12,3 +12,13 @@ Es un archivo de texto plano que reside en el directorio raíz de tu proyecto y 
 ** Limpieza: ** No ensucia el historial de cambios con archivos temporales o logs que cambian cada segundo.
 
 ** Eficiencia: ** horra espacio al no subir carpetas pesadas que pueden reconstruirse
+
+### Archivos que van 
+
+venv/
+
+.env/
+
+env/
+
+PYTHONPATH
