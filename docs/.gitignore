@@ -1,0 +1,14 @@
+# Archivo .gitignore
+
+Un archivo .gitignore es, en esencia, la "lista de invitados" de tu repositorio de Git, pero al revés: le dice a Git exactamente a quién no dejar pasar.
+
+Es un archivo de texto plano que reside en el directorio raíz de tu proyecto y es fundamental para mantener la limpieza y la seguridad de tu código.
+
+
+## Razones para usarlo
+
+** Seguridad: ** Evita subir archivos sensibles como llaves de API, contraseñas o archivos .env.
+
+** Limpieza: ** No ensucia el historial de cambios con archivos temporales o logs que cambian cada segundo.
+
+** Eficiencia: ** horra espacio al no subir carpetas pesadas que pueden reconstruirse
